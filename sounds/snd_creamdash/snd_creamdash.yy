@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_creamdash",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":2.149864,
+  "name":"snd_creamdash",
+  "parent":{
+    "name":"Cream",
+    "path":"folders/Sounds/Player/Cream.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_creamdash.wav",
+  "type":0,
+  "volume":1.0,
+}

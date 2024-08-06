@@ -1,0 +1,1 @@
+text = "first half of killed survivors\nbecomes corrupted after death\ncorrupted victims have no    \nhealth restriction,have lower\ncooldown on some abilities to\ndamage survivors";

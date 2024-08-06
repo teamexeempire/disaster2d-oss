@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"mus_notperfect_chase",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":3,
+  "conversionMode":0,
+  "duration":74.23544,
+  "name":"mus_notperfect_chase",
+  "parent":{
+    "name":"Music",
+    "path":"folders/Sounds/Music.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"mus_notperfect_chase.ogg",
+  "type":1,
+  "volume":0.3,
+}

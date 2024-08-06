@@ -1,0 +1,1 @@
+scr_counter_draw_s(obj_achivements.mercoins, x, y);

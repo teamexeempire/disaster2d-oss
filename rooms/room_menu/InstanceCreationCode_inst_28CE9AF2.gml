@@ -1,0 +1,1 @@
+text = "cream has very high mobility  \nthanks to her general speed  \nand faster acceleration.her  \ninstant boost and glide give \nher better control on her    \nspeed.she can't fight back   \naside from bouncing exe off. \nher ability to spawn 3 rings \n(2 red rings in exe form)    \nmakes her a good support";

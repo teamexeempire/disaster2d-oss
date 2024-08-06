@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_controls_init_gamepad",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_controls_init_gamepad",
+  "parent":{
+    "name":"Controls",
+    "path":"folders/Scripts/Controls.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

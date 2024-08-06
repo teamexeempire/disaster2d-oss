@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_move_basic",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_move_basic",
+  "parent":{
+    "name":"Players",
+    "path":"folders/Scripts/Players.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

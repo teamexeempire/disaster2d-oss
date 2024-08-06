@@ -1,0 +1,1 @@
+text = "amy's specials provide her    \nwith good defence and \nmobility,however not having  \nthem charged makes her very \nvulnerable.her attacks can't \nbe parried,she's pretty fast \nby herself,but also has the  \nhammer jump which allows her \nto access shortcuts and hit  \nenemies on jump's start";

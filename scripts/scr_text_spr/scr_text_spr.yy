@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_text_spr",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_text_spr",
+  "parent":{
+    "name":"Helpers",
+    "path":"folders/Scripts/Helpers.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_prefetch_group",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_prefetch_group",
+  "parent":{
+    "name":"Helpers",
+    "path":"folders/Scripts/Helpers.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

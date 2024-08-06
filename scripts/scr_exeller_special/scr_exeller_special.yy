@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_exeller_special",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_exeller_special",
+  "parent":{
+    "name":"Specials",
+    "path":"folders/Scripts/Players/Specials.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

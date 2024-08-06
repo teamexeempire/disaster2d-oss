@@ -1,0 +1,1 @@
+image_index = progress * image_number;

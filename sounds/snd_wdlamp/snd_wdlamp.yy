@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_wdlamp",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.48898,
+  "name":"snd_wdlamp",
+  "parent":{
+    "name":"Objects",
+    "path":"folders/Sounds/Objects.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_wdlamp.mp3",
+  "type":1,
+  "volume":0.4,
+}

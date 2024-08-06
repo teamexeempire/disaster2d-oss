@@ -1,0 +1,1 @@
+text = "knuckles is protective        \ncharacter whose spin and     \npunch allow him to deter exe,\nhowever his speed and jump   \nheight make it harder to     \nescape or catch up with      \nsurvivors in his exe form,can\nglide for long enough to fly \nover an obstacle";

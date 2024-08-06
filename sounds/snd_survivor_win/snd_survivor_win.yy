@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_survivor_win",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":5.459592,
+  "name":"snd_survivor_win",
+  "parent":{
+    "name":"Ambient",
+    "path":"folders/Sounds/Ambient.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_survivor_win.mp3",
+  "type":1,
+  "volume":1.0,
+}

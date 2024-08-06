@@ -1,0 +1,1 @@
+draw_sprite(spr_heal, image_index, floor(x-obj_camera.x), floor(y-obj_camera.y));

@@ -1,0 +1,1 @@
+setZone(obj_netclient.lvlId);

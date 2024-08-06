@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_chat_filter",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_chat_filter",
+  "parent":{
+    "name":"Helpers",
+    "path":"folders/Scripts/Helpers.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

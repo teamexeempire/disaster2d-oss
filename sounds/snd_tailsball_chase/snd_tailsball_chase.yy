@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_tailsball_chase",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":13.746213,
+  "name":"snd_tailsball_chase",
+  "parent":{
+    "name":"Objects",
+    "path":"folders/Sounds/Objects.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_tailsball_chase.ogg",
+  "type":1,
+  "volume":1.0,
+}

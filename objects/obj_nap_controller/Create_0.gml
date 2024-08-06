@@ -1,0 +1,1 @@
+optimize = os_type == os_android;

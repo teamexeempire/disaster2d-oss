@@ -1,0 +1,1 @@
+text = "randomly appear on the map,      \ncollecting 10 rings will restore\none health point but taking     \ndamage will cause all collected \nrings to scatter,having 10 rings\nat full hp will allow healing   \ninjured survivor,exe can shatter\nthe rings";

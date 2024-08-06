@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_controls_keycode_to_key",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_controls_keycode_to_key",
+  "parent":{
+    "name":"Controls",
+    "path":"folders/Scripts/Controls.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

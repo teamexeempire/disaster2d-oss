@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"net_wrapper",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"net_wrapper",
+  "parent":{
+    "name":"General",
+    "path":"folders/Scripts/Networking/General.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

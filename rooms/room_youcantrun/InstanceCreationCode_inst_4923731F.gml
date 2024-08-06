@@ -1,0 +1,1 @@
+stype = SOUNDEMT_MOVINGSPIKE;

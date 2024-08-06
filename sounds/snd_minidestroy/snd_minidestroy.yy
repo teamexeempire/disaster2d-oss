@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_minidestroy",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.941111,
+  "name":"snd_minidestroy",
+  "parent":{
+    "name":"Minigame",
+    "path":"folders/Sounds/Minigame.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_minidestroy.wav",
+  "type":0,
+  "volume":1.0,
+}

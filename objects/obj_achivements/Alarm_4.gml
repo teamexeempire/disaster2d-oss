@@ -1,0 +1,1 @@
+rShockwave = 0;

@@ -1,0 +1,1 @@
+scr_text_spr(x, y, text);

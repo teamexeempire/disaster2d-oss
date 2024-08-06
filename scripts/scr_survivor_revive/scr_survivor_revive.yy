@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_survivor_revive",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_survivor_revive",
+  "parent":{
+    "name":"Players",
+    "path":"folders/Scripts/Players.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_miniextra",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":2.401746,
+  "name":"snd_miniextra",
+  "parent":{
+    "name":"Minigame",
+    "path":"folders/Sounds/Minigame.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_miniextra.wav",
+  "type":0,
+  "volume":1.0,
+}

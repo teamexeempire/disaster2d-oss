@@ -1,0 +1,1 @@
+draw_sprite(spr_darktower_fog, 0, -495/2 + sin(current_time / 4000) * 200, 0);

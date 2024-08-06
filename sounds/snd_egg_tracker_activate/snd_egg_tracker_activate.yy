@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_egg_tracker_activate",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.800952,
+  "name":"snd_egg_tracker_activate",
+  "parent":{
+    "name":"Egg",
+    "path":"folders/Sounds/Player/Egg.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_egg_tracker_activate.wav",
+  "type":0,
+  "volume":1.0,
+}

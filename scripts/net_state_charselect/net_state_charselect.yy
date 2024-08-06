@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"net_state_charselect",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"net_state_charselect",
+  "parent":{
+    "name":"States",
+    "path":"folders/Scripts/Networking/States.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

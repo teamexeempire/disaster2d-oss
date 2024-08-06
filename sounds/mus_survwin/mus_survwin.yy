@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"mus_survwin",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":320,
+  "compression":3,
+  "conversionMode":0,
+  "duration":14.576327,
+  "name":"mus_survwin",
+  "parent":{
+    "name":"Music",
+    "path":"folders/Sounds/Music.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"mus_survwin.mp3",
+  "type":1,
+  "volume":1.0,
+}

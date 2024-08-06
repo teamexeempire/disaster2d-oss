@@ -1,0 +1,1 @@
+text = "players can hide behind some  \nobjects, which covers them   \nbut disables their specials, \nplayers can still get hurt  \nwhile being hidden,press down \nbehind the object to get     \ncovered. however, standing in \none place for too long will \nslow the survivors down, so \nhiding for too long is \nnot reliable";

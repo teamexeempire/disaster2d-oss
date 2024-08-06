@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_level_split",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_level_split",
+  "parent":{
+    "name":"Helpers",
+    "path":"folders/Scripts/Helpers.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

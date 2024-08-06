@@ -1,0 +1,1 @@
+text = "an ability of most characters \nthat is capable of dealing \ndamage through spinning.if a \nsurvivor hits an enemy - they\nstun them,while survivors get\ndamage from enemy hits";

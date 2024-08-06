@@ -1,0 +1,1 @@
+text = "despite having medium speed, \nsally can accelerate really \nfast using her slide,which \nalso provides her with\nmaneuverability.for defence \nshe has a kick that can be\nperformed only in the air, \nthe shield to ignore one hit.\nshattering shield with spin or    \nhit will throw her back.for \nher exe form,shards can  \nalso damage near survivors";

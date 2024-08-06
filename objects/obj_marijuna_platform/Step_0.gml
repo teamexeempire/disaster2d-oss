@@ -1,0 +1,1 @@
+y = sY + sin(current_time / 400) * 20;

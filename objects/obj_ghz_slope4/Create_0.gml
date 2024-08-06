@@ -1,0 +1,1 @@
+canStuck = false;

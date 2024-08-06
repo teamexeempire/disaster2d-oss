@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"net_sounds",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"net_sounds",
+  "parent":{
+    "name":"Specific",
+    "path":"folders/Scripts/Networking/Specific.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

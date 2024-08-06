@@ -1,0 +1,1 @@
+text = "is active when game timer is  \non two or less minutes,during\nthis time rebirth is no      \nlonger available";

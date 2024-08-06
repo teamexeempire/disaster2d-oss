@@ -1,0 +1,25 @@
+codes = [ 
+	"kzgfh", 
+	"gszmlh", 
+	"svsirws",
+	"hgliv", 
+	"kfhwvi", 
+	"zmpov", 
+	"slnhgvi",
+	"glmthdvo",
+	"wzmzo",
+	"kvirwlm",
+	"hloultl",
+	"kraz",
+	"ksromfh",
+	"gfnzir",
+	"hlmrzmt1",
+	"hlmrzmt2",
+	"hlmrzmt3",
+	"eztrmvggv",
+	"nvigslmt",
+	"TUTANHAMONUS DELEGATION EL EGIPET",
+	"lastround",
+	"jojomart"
+];
+

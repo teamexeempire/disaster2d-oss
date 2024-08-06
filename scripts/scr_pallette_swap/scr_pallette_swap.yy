@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_pallette_swap",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_pallette_swap",
+  "parent":{
+    "name":"Pallettes",
+    "path":"folders/Scripts/Pallettes.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
